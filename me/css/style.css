@@ -247,7 +247,7 @@
 		color: #dedede;
 		font-size: 80px;
 		position: absolute;
-	    top:  46%;
+	    top:  50%;
 	    left: 50%;
 	    transform: translate(-50%,-50%);
 	    text-shadow: 3px 9px rgba(0,0,0,0.1);
